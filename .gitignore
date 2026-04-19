@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# large data/ML files (not needed for deployment)
+food_recipes.csv
+/ml/
+/archive/
+/archive (1)/
+/archive (3)/
+/archive (4)/
+/FINAL FOOD DATASET/
